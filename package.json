@@ -1,12 +1,12 @@
 {
   "name": "mtg-cards",
   "version": "1.0.0",
-  "description": "",
+  "description": "API for MTG chatbot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Carlo Cruz",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
